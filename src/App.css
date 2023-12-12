@@ -1,3 +1,7 @@
+ul {
+  list-style: none;
+  padding: 0;
+}
 /* editor */
 .DiaryEditor {
   border: 1px solid #ddd;
